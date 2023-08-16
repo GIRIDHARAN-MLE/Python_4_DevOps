@@ -1,0 +1,7 @@
+# sys module is used to work with python runtime environment.
+
+""" sys module provides functions and variables used to manipulate different types of
+the python runtime environment. """
+
+# import sys
+# dir(sys), help(sys)
