@@ -5,3 +5,16 @@ the python runtime environment. """
 
 # import sys
 # dir(sys), help(sys)
+
+
+import sys
+print(sys.platform)
+print(sys.version)
+
+print(sys.version_info)
+print(sys.modules)
+
+print(sys.path)         # sys.path is an environment variable for python.
+
+sys.exit()
+print("Hello World")
